@@ -14,7 +14,7 @@
   },
 
 
-  "homepage":"https://publinet.net.ve/app2/",
+  "homepage":"https://haroldcaraballo.github.io/gtmreact/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
